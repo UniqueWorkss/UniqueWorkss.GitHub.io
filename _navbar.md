@@ -1,2 +1,2 @@
 * [中文](cn.md)
-* [EN](en.md)
+* [ENG](en.md)
