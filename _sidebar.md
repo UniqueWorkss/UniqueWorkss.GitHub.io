@@ -1,4 +1,3 @@
 <!--docs/_sidebar.md-->
- * [首页](zh-cn/)
+ * [捐赠](juanzeng/)
 
-* [指南](zh-cn/guide)
