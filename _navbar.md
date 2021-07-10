@@ -1,2 +1,2 @@
 * [中文](cn.md)
-* [ENG](en.md)
+* [ENG](/cn/cn.html)
