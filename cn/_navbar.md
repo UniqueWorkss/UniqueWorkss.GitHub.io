@@ -1,2 +1,2 @@
-* [中文](https://chalice-g.github.io/inspire/#)
+* [中文](../)
 * [ENG](/cn/)
