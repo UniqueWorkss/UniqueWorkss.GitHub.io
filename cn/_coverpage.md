@@ -1,4 +1,4 @@
-> 做一个有趣的人，写一个有趣的网站
+> Be a nice man，code a nice web
 
 [github]()
 [get started](#docsify)
