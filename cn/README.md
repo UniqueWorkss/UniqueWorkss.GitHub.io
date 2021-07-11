@@ -1,4 +1,4 @@
-# Learn new things, Be new man
+# Learn new things, Be new youth
 > This a awesome wiki
 
 <center>  
