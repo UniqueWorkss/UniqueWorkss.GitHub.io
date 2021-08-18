@@ -8,4 +8,4 @@
 * 书摘
   * [你不是迷茫，而是自制力不强](/nibus.md)
 * TED
-  * [How stress affects your brain](https://chalice-g.github.io/inspire/ted.md)
+  * [How stress affects your brain](https://chalice-g.github.io/inspire/ted.html)
