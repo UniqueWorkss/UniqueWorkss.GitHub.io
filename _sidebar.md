@@ -1,10 +1,11 @@
 * 首页
   * [简介](/README.md)
-* 语法
-  * [Markdown](/yufa.md) 
 * 日志
   * [更新日志](/log.md)
 * 新闻
-  * [2021.7.16](/210716.md)
+    * [2021.8.7](/210807.md)
+    * [2021.7.16](/210716.md)
 * 书摘
   * [你不是迷茫，而是自制力不强](/nibus.md)
+* TED
+  * [How stress affects your brain]()
