@@ -9,3 +9,5 @@
   * [你不是迷茫，而是自制力不强](/nibus.md)
 * TED
   * [How stress affects your brain](https://chalice-g.github.io/inspire/ted.html)
+* 感想
+  * [什么都不想做怎么办][/220605.md]
