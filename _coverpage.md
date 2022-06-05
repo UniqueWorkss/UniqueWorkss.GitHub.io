@@ -3,4 +3,3 @@
 [github](https://github.com/Chalice-G/inspire)
 [get started](/README.md)
 
-![](_media/bg1.png)
