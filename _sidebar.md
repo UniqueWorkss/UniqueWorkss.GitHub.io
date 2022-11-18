@@ -4,7 +4,7 @@
   - [更新日志](articles/log.md)
   
 * 阅读/观影
-  * [你不是迷茫，而是自制力不强](articles/nibus.md)
+  * [你不是迷茫，而是自制力不强](articles/你不是迷茫.md)
   * [什么都不想做怎么办](articles/220605.md)
   
 * 记录
