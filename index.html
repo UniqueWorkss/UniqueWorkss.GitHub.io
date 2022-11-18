@@ -24,7 +24,10 @@
       repo: '',
       loadSidebar: true,
       loadNavbar: true,
-      subMaxLevel: 2,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',},
+      sidebarDisplayLevel:1,
+      subMaxLevel: 3,
       coverpage: true,
       onlyCover:true,
       placeholder: {
@@ -33,7 +36,7 @@
       }
     }
   </script>
-
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
