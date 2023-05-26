@@ -16,4 +16,4 @@
   - [停止毁灭自己的十个方法](毁掉自己的十个方法.md)
 
 - X-Plane11/12
-  --[Flywithlua教程](flywithlua.md)
+  - [Flywithlua教程](flywithlua.md)
