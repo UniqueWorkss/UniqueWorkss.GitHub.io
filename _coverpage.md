@@ -3,4 +3,4 @@
 [github]()
 [get started](/README.md)
 
-![](_media/bg2.png)
+![](_media/N844X - 2023-01-28 12.52.34.png)
