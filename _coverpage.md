@@ -1,4 +1,4 @@
-> <font size="5">做一个有趣的人，写一个有趣的网站</font>
+> <font size="5">XPlane全套开发指南</font>
 
 [github](https://github.com/Chalice-G/inspire)
 [get started](/README.md)
