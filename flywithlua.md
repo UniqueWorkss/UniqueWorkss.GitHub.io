@@ -18,9 +18,9 @@ Xplane中的DataRefs分为只读类和可编辑类。你可以通过只读类或
 
 开发所使用的语言是Lua。FlyWithLua使用LuaJIT作为编译器。这使得代码执行速度非常快，比原来的Lua解释器快得多，同时它支持Windows， Linux，Mac OS X三个平台，你无需担心你插件的系统适配问题。
 
-为了使用这种语言进行编辑，你需要一个编辑器。在此，我非常向你推荐[Virsual Studio Code]([Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/))。它的代码高亮相当好用，同时支持多种语言编辑。不论你是MacOS还是Windows，这款软件都能给你带来优秀的编辑体验。
+为了使用这种语言进行编辑，你需要一个编辑器。在此，我非常向你推荐[Virsual Studio Code](https://code.visualstudio.com/)。它的代码高亮相当好用，同时支持多种语言编辑。不论你是MacOS还是Windows，这款软件都能给你带来优秀的编辑体验。
 
-![image-20230415220427697](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230415220427697.png)
+![image-20230415220427697](https://picdl.sunbangyan.cn/2023/06/09/vjo3ni.png)
 
 为了在游戏中获取DataRefs及观察DataRefs的改变情况，你还需要下载 [DataRef Tool](https://datareftool.com/)
 
@@ -38,7 +38,7 @@ Xplane中的DataRefs分为只读类和可编辑类。你可以通过只读类或
 
 首先请看这一段代码：
 
-![image-20230416104836151](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230416104836151.png)
+![image-20230416104836151](https://picdl.sunbangyan.cn/2023/06/09/vk8w75.png)
 
 我们定义了一个Door_Status的功能，当指示空速小于15时，Door_Open = 1（开门）。
 
@@ -46,5 +46,5 @@ Xplane中的DataRefs分为只读类和可编辑类。你可以通过只读类或
 
 再看这段：
 
-![image-20230416105111436](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230416105111436.png)
+![image-20230416105111436](https://picdl.sunbangyan.cn/2023/06/09/vm1tao.png)
 
