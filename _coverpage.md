@@ -1,6 +1,6 @@
 > <font size="5">XPlane全套开发指南</font>
 
-[github](https://github.com/Chalice-G/inspire)
+[github]()
 [get started](/README.md)
 
 ![](_media/bg2.png)
