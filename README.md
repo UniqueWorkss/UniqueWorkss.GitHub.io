@@ -87,7 +87,7 @@ Markdown的基本语法知识请参照 >>> [Markdown语法及原理从入门到�
 [link](/demo2 ':target=_self')
 ```
 
-###### [禁用链接](https://docsify.js.org/#/zh-cn/helpers?id=禁用链接)
+###### 禁用链接
 
 ```md
 [link](/demo ':disabled')
