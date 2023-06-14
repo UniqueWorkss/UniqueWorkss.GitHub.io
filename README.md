@@ -95,7 +95,7 @@ Markdown的基本语法知识请参照 >>> [Markdown语法及原理从入门到�
 
 
 ```
-###### [Github 任务列表](https://docsify.js.org/#/zh-cn/helpers?id=github-任务列表)
+###### [Github 任务列表]()
 
 ```md
 - [ ] foo
