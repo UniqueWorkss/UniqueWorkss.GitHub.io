@@ -46,7 +46,7 @@
 
 按照FPAP导航设备各字段的定义填写数据
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image014.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/iiieni.png)
 
 注1：目前支持的进近类型包括：`LP`， `LPV`， `APV-II` ， `GLS`。
 
