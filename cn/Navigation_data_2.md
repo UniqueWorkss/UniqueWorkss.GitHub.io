@@ -31,7 +31,7 @@
 
 4.4进近程序中常用的各类型未命名航路点的命名示例
 
-![图片1](https://picdl.sunbangyan.cn/2023/06/14/k9cxw5.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/hfrcbr.png)
 
 #### 5.机场ID或ENRT
 
