@@ -1,6 +1,6 @@
 ### 1.导航设备起始代码的含义
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image002.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/ig3d96.png)
 
  
 
@@ -8,19 +8,19 @@
 
 按照NDB导航设备各字段的定义填写数据
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image004.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/igh73m.png)
 
 ### 3.添加VOR/DME导航设备
 
 按照VOR/DME导航设备各字段的定义填写数据
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image006.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/igka6a.png)
 
 ### 4.添加ILS（LOC/GS/DME）导航设备
 
 按照ILS（LOC/GS/DME）导航设备各字段的定义填写数据
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image008.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/igmvoa.png)
 
 注1：LOC航向道的角度计算公式：`下滑跑道磁航向角×360 +下滑跑道真实航向角`。如：下滑跑道磁航向角204.00°，跑道真实航向角是201.849°，
 
@@ -34,13 +34,13 @@
 
 按照GLS导航设备各字段的定义填写数据
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image010.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/igpy65.png)
 
 ### 6.添加Marker beacons导航设备
 
 按照Marker beacons导航设备各字段的定义填写数据
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image012.png)
+![](https://picdl.sunbangyan.cn/2023/06/20/iha9ka.png)
 
 ### 7. 添加FPAP导航设备
 
