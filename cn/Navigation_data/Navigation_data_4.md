@@ -40,7 +40,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 ##### 3.1.3进近航线类型选择如下表所示：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image026.png)
+![image-20230621100738488](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230621100738488.png)
 
 
 
@@ -50,7 +50,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 进近程序名称的命名规则如下：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image028.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gods87.png)
 
 例如：ILS进近：I02L-Z；VOR/DME进近：D20；RNAV 进近：R02；GLS进近： J32；NDB/DME 进近：Q02；NDB-X进近： N05。
 
@@ -86,7 +86,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.6  航段末端航点类型代码及子代码（Section Code ，Subsection Code）
 
-  ![img](file:///D:/Temp/msohtmlclip1/01/clip_image030.png)
+  ![](https://picdl.sunbangyan.cn/2023/06/21/goy40p.png)
 
  
 
@@ -98,7 +98,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.7 航点描述代码（Waypoint Description Code）
 
- ![img](file:///D:/Temp/msohtmlclip1/01/clip_image032.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gpdf5z.png)
 
  
 
@@ -112,53 +112,53 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.9 航径终止码（Path and Termination）
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image034.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gpik9x.png)
 
  
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image036.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gpxsv3.png)
 
  
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image038.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gq2djv.png)
 
  
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image040.png)
+![image-20230621101121368](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230621101121368.png)
 
  
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image042.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gqosa3.png)
 
 
 
 说明：仅适用于RNAV程序设计中使用航径终止码，如下表所示：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image044.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gr49bx.png)
 
-3.10 转航向有效（Turn Direction Valid）
+#### 3.10 转航向有效（Turn Direction Valid）
 
   转航向有效需要与转湾方向字段配合使用，使用字符“Y”。
 
-3.11 指定使用的导航设备（Recommended Navaid）
+#### 3.11 指定使用的导航设备（Recommended Navaid）
 
 以导航设施为定位点或按照给出的导航设施方位飞行时，须指定导航设施的标识符。
 
-3.12 导航设施所属管制区域（ICAO Code）
+#### 3.12 导航设施所属管制区域（ICAO Code）
 
 ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中国云南，ZS-中国华东，ZU-中国西南，ZW-中国新疆，ZY-中国东北。
 
-3.13 导航设施类型代码及子代码（RECD NAV Section，RECD NAV Subsection）
+#### 3.13 导航设施类型代码及子代码（RECD NAV Section，RECD NAV Subsection）
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image046.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gr8ak4.png)
 
  
 
-3.14 圆弧半径（ARC Radius）
+#### 3.14 圆弧半径（ARC Radius）
 
   用于RF航段，指定圆弧半径，表示方法：6nm= 006000。
 
-3.15由指定导航设施定位的方位点的径向线磁方向角（Theta）
+#### 3.15由指定导航设施定位的方位点的径向线磁方向角（Theta）
 
 当导航设施作为定位点时，飞向或飞离导航设施时，磁方向角填写“0000”。
 
@@ -166,59 +166,59 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
  
 
-3.16由指定导航设施定位的方位点的DME弧线距离（Rho）
+#### 3.16由指定导航设施定位的方位点的DME弧线距离（Rho）
 
 当导航设施作为定位点时，飞向或飞离导航设施时，DME弧线距离填写“0000”。
 
 当需要按照指定导航设施给定的方位飞到指定的航点时，填写该航点与导航设施的DME弧线距离。
 
-3.17 指定飞行的磁航向角（Magnetic Course）
+#### 3.17 指定飞行的磁航向角（Magnetic Course）
 
 填写飞行器实际飞行的磁航向。等待程序时，填写入航边角度。
 
-3.18指定飞行的距离或等待时间（Route Distance/Holding Distance or Time）
+#### 3.18指定飞行的距离或等待时间（Route Distance/Holding Distance or Time）
 
 填写飞行器实际飞行的距离。等待程序时，填写等待时间。
 
-3.19高度限制类型（Altitude Description）
+#### 3.19高度限制类型（Altitude Description）
 
 根据航图标注的航点高度要求，选择高度限制类型。高度限制类型如下表所示：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image048.png)
+![image-20230621101313154](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230621101313154.png)
 
-3.20 高度1和高度2（Altitude 1，Altitude 2）
+#### 3.20 高度1和高度2（Altitude 1，Altitude 2）
 
 根据航图标注的航点高度要求，填写高度值。
 
-3.21过渡高度或过渡高度层（Transition Altitude /Level）
+#### 3.21过渡高度或过渡高度层（Transition Altitude /Level）
 
 离场程序有过渡高度（TA）要求时，在离场程序的起始行填写过渡高度值。进场或进近程序有过渡高度层（TL）要求时，在进场的起始行或进近程序的FAF点填写过渡高度层值。
 
-3.22速度限制类型（Speed Limit Description）
+#### 3.22速度限制类型（Speed Limit Description）
 
 根据航图标注的航点速度要求，选择速度限制类型。速度限制类型如下表所示：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image050.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/grq8er.png)
 
-3.23速度极限值（Speed Limit） 
+#### 3.23速度极限值（Speed Limit） 
 
 根据航图标注的航点速度要求，填写速度极限值。
 
-3.24 下滑角度（Vertical Angle）
+#### 3.24 下滑角度（Vertical Angle）
 
 如：-300：-3°，-350：-3.5°
 
-3.25垂直比例尺（Vertical Scale Factor）
+#### 3.25垂直比例尺（Vertical Scale Factor）
 
 本节内容略。
 
-3.26圆弧中心点或TAA（MSA）的中心点（Center Fix or TAA Procedure Turn Indicator）
+#### 3.26圆弧中心点或TAA（MSA）的中心点（Center Fix or TAA Procedure Turn Indicator）
 
 飞RF航段时，填写圆弧中心点名称。
 
 进离场程序有最低扇区高度（MSA）要求时，在进离场程序第一行填写MAS中心点名称。ILS进近程序有最低扇区高度MSA要求时，在过渡点程序起始行和最后进近点（FAF）程序行填写MAS中心点名称。VOR/DEM进近程序有最低扇区高度MSA要求时，在最后进近点（FAF）程序行填写MAS中心点名称。
 
-3.27圆弧中心点或TAA（MSA）的中心点的所属管制区（ICAO Code）
+#### 3.27圆弧中心点或TAA（MSA）的中心点的所属管制区（ICAO Code）
 
 ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中国云南，ZS-中国华东，ZU-中国西南，ZW-中国新疆，ZY-中国东北。
 
@@ -232,15 +232,15 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
  
 
-3.28 圆弧中心点或TAA（MSA）的中心点类型代码及子代码（Section Code ，Subsection Code）
+#### 3.28 圆弧中心点或TAA（MSA）的中心点类型代码及子代码（Section Code ，Subsection Code）
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image052.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/grun7v.png)
 
 注：MSA选择机场中心时，中心点类型代码及子代码为P，A。
 
  
 
-3.29多代码或TAA管制区域的标识符（Multiple Code or TAA Sector Identifier）
+#### 3.29多代码或TAA管制区域的标识符（Multiple Code or TAA Sector Identifier）
 
 本节内容略。
 
@@ -252,9 +252,9 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
  
 
-3.30 GNSS/FMS授权指示（GNSS/FMS Indication）
+#### 3.30 GNSS/FMS授权指示（GNSS/FMS Indication）
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image054.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gsd87q.png)
 
 注：该字段仅用于进近程序。
 
@@ -278,13 +278,13 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
  
 
-3.31进近航路限定符1和限定符2（Route Qualifier 1，Route Qualifier 2）
+#### 3.31进近航路限定符1和限定符2（Route Qualifier 1，Route Qualifier 2）
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image056.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gsimnz.png)
 
-进近航线类型对应GNSS/FMS指示/限定符1/限定符1的常用组合示例：
+#### 进近航线类型对应GNSS/FMS指示/限定符1/限定符1的常用组合示例：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image058.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gsmgxz.png)
 
 
 
@@ -292,7 +292,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 跑道数据的格式
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image060.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gt05l1.png)
 
 注1：跑道识别码的字符数5位，不足5位时必须添加空格。ILS/MLS/GLS标识符的字符数4位，不足4位时必须添加空格。
 
@@ -300,7 +300,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 注3：进近导航设备类别/等级表：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image062.jpg)
+![](https://picdl.sunbangyan.cn/2023/06/21/gt7f31.png)
 
  
 
@@ -322,15 +322,15 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
  
 
-\5.   添加PRDAT 数据
+### 5.添加PRDAT 数据
 
 PRDAT 字段格式：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image064.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gto7z0.png)
 
 是否授权字符表：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image066.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gts8bd.png)
 
  
 
@@ -344,11 +344,11 @@ PRDAT 字段格式：
 
 FAS、LNAV/VNAV、LNAV服务级别名称字符表：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image068.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gu3urc.png)
 
 RNP服务级别值字符：
 
-![img](file:///D:/Temp/msohtmlclip1/01/clip_image070.png)
+![](https://picdl.sunbangyan.cn/2023/06/21/gu6qze.png)
 
 RNP精度值含义：031表示RNP 0.3，03*10-1=0.3，152表示RNP 0.15，15*10-2=0.15，112表示RNP 0.11，11*10-2=0.11。
 
