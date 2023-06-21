@@ -19,3 +19,5 @@
 ?> 该文件位于`...\X-Plane11(12)\Custom Data`下，你可以使用任意文本编辑器打开。
 
 3.编写机场的进离场程序文件（ICAO.dat），并将其放入`...X-Plane12(12)\Custom Data\CIFP`文件夹中。
+
+?> 如广州白云机场ICAO是ZGGG，则进离场程序文件则是ZGGG.dat
