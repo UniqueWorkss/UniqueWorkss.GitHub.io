@@ -2,10 +2,11 @@
   
 - 涂装
   - 介绍
+    - 涂装简介(cn/livery/livery_1.md)
     - 基础制作
-      - [涂装文件]()
-      - [素材获取]()
-      - [线条校准]()
+      - [涂装文件](cn/livery/livery_2.md)
+      - [素材获取](cn/livery/livery3.md)
+      - [线条校准](cn/livery/livery4.md)
     - 高级制作
       - [Blender]()
         - [模型导入]()
