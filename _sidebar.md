@@ -2,7 +2,7 @@
   
 - 涂装
   - 介绍
-    - 涂装简介(cn/livery/livery_1.md)
+    - [涂装简介](cn/livery/livery_1.md)
     - 基础制作
       - [涂装文件](cn/livery/livery_2.md)
       - [素材获取](cn/livery/livery3.md)
