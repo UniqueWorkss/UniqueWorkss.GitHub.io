@@ -10,7 +10,7 @@
 
 添加机场导航数据主要包括以下内容：
 
-1.在earth_fix.dat文件中添加与机场相关的航点数据；
+1.在earth_fix.dat文件中添加与机场相关的航点数据。
 
 ?> 该文件位于`...\X-Plane11(12)\Custom Data`下，你可以使用任意文本编辑器打开。
 
@@ -18,7 +18,7 @@
 
 ?> 该文件位于`...\X-Plane11(12)\Custom Data`下，你可以使用任意文本编辑器打开。
 
-3.在earth_msa.dat 文件中添加 MSA 最低安全高度数据（X-Plane12）
+3.在earth_msa.dat 文件中添加 MSA 最低安全高度数据（X-Plane12）。
 
 ?> 该文件位于`...\X-Plane11(12)\Custom Data`下，你可以使用任意文本编辑器打开。
 
