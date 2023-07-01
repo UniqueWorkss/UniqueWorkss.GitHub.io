@@ -18,7 +18,7 @@
 
 ZPLJ丽江机场有三个最低安全高度，如下图所示：
 
-![image-20230701162841489](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230701162841489.png)
+![](https://picdr.sunbangyan.cn/2023/07/01/qzc1vt.png)
 
 最低安全高度数据：
 
