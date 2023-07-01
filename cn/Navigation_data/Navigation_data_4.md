@@ -20,7 +20,7 @@ ZPLJ丽江机场有三个最低安全高度，如下图所示：
 
 #### 4.备份
 
-将编写好的机场MSA数据添加到X-Plane 12/Custom Data/earth_msa.dat文件末尾的99结束行前面，并保存退出即可。
+将编写好的机场MSA数据添加到`X-Plane 12/Custom Data/earth_msa.dat`文件末尾的99结束行前面，并保存退出即可。
 
 #### 5.备份
 
