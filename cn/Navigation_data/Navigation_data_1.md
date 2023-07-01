@@ -18,7 +18,7 @@
 
 ?> 该文件位于`...\X-Plane11(12)\Custom Data`下，你可以使用任意文本编辑器打开。
 
-3.在earth_msa.dat 文件中添加 MSA 最低安全高度数据
+3.在earth_msa.dat 文件中添加 MSA 最低安全高度数据（X-Plane12）
 
 ?> 该文件位于`...\X-Plane11(12)\Custom Data`下，你可以使用任意文本编辑器打开。
 
