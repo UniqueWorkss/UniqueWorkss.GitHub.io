@@ -18,6 +18,20 @@
 
 ZPLJ丽江机场有三个最低安全高度，如下图所示：
 
+![image-20230701162841489](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230701162841489.png)
+
+最低安全高度数据：
+
+```
+3  CEH ZP ZPLJ M 290 138 25 140 155 25 000 000 0
+
+3  LJA ZP ZPLJ M 230 140 25 000 153 25 130 204 25 000 000 0
+
+1  ZPLJ ZP ZPLJ M 230 142 25 000 160 25 130 204 25 000 000 0
+
+
+```
+
 #### 4.备份
 
 将编写好的机场MSA数据添加到`X-Plane 12/Custom Data/earth_msa.dat`文件末尾的99结束行前面，并保存退出即可。
