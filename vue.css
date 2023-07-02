@@ -514,7 +514,7 @@ section.cover.has-mask .mask {
 section.cover .cover-main {
   flex: 1;
   margin: -20px 16px 0;
-  text-align: right;
+  text-align: center;
   position: relative;
 }
 section.cover a {
