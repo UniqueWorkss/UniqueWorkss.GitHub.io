@@ -70,7 +70,7 @@
 
 再打开一个cabin.obj，这里还指定了夜间贴图。
 
-![img](file:///C:\Users\ASUS\Documents\Tencent Files\2490605266\nt_qq\nt_data\Pic\2023-07\Ori\1f2cf5dca62f92427228a0d220f0a800.png)
+![](https://picdm.sunbangyan.cn/2023/07/02/guc7tm.png)
 
 各标签含义如下
 
