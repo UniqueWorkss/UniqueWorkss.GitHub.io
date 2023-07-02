@@ -12,7 +12,7 @@
         - [模型导入]()
         - [UV获取]()
         
-      - [Substance Painter]()
+      - Substance Painter
         - [模型导入]()
         - []
 - 地景
