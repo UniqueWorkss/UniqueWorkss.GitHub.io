@@ -12,7 +12,7 @@
 
 ![](https://picss.sunbangyan.cn/2023/07/02/gmycrn.png)
 
-![](https://picss.sunbangyan.cn/2023/07/02/gn4jmz.png)
+![](https://picdl.sunbangyan.cn/2023/07/02/gnncal.png)
 
 切割展开的这个过程，我们称之为UV展开。在这个过程中，三维正方体上每个顶点通过UV映射，将UV坐标分配给了展开平面上的每个顶点。与常见的XY坐标系类似，U表示水平轴，V表示垂直轴，取值为0-1。U=0表示纹理的最左边，U=1表示纹理最右边。V=0表示纹理的最底部，V=1表示纹理最顶部。
 
