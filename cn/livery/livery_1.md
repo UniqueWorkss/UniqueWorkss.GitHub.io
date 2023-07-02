@@ -81,7 +81,7 @@
 
 如果我们改变贴图的内容，并替换掉原本的贴图，那么我们在游戏中就能看到贴图相应的变化。但这对于多个涂装来说显然不是个便捷的方法，你总不能想每次切涂装都要进文件夹手动拖拽文件吧。那么，在XPlane中，我们可以在机模文件夹下创建一个Liveries文件夹，在这个文件夹下以航司名称为名新建各个文件夹。XPlane将会识别这些文件夹并在机模设置界面涂装选择处显示对应名称。
 
-![image-20230701213908690](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230701213908690.png)
+![image-20230702101831750](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702101831750.png)
 
 ![image-20230702083830043](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702083830043.png)
 
