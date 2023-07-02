@@ -58,7 +58,7 @@
 
 在此之前，我们先了解下机模如何读取物体及贴图的。正常来说，所有机模模型及贴图储存在机模文件夹objects中。XPlane会根据在acf中的设定，在该路径中寻找物体及贴图并加载。
 
-![image-20230701210613079](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230701210613079.png)
+![](https://picss.sunbangyan.cn/2023/07/02/gtju22.png)
 
 ![image-20230701211031315](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230701211031315.png)
 
