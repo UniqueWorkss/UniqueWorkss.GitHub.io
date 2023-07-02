@@ -60,7 +60,7 @@
 
 ![](https://picss.sunbangyan.cn/2023/07/02/gtju22.png)
 
-![image-20230701211031315](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230701211031315.png)
+![image-20230702101719361](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702101719361.png)
 
 我们双击任一个obj格式的文件，比如A330_fuselage_A.obj。
 
