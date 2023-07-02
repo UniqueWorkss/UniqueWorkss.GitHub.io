@@ -36,7 +36,7 @@
 
 ![](https://picdl.sunbangyan.cn/2023/07/02/gr8ib4.png)
 
-<img src="E:\X-Plane 11\Output\a321_StdDef - 2022-09-11 23.29.12.png" alt="a321_StdDef - 2022-09-11 23.29.12" style="zoom:80%;" />
+![](https://picst.sunbangyan.cn/2023/07/02/grpmag.png)
 
 一般来说，各大厂商都会发布自己机模的空白模板给涂装制作者进行使用。模板通常是psd文件，也有少部分是spp文件。psd使用ps打开即可，spp则需要Adobe Substance Painter打开。在基础教程中，我们暂不涉及spp，这个会在高级教程中讲解。
 
