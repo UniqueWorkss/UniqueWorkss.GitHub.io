@@ -83,7 +83,7 @@
 
 ![image-20230702101831750](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702101831750.png)
 
-![image-20230702083830043](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702083830043.png)
+![](https://picss.sunbangyan.cn/2023/07/02/gusc9s.png)
 
 完成这一步后，将这个以航司名称命名的文件夹视为机模文件夹（伪），在里面新建与机模主文件夹相同层级的objects文件夹。将贴图放入其中就可以了。需注意，这个贴图名称必须和原贴图名称相同才能实现替换效果。
 
