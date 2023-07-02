@@ -20,9 +20,9 @@
 
 ![](https://picss.sunbangyan.cn/2023/07/02/gn4jmz.png)
 
-![](https://picst.sunbangyan.cn/2023/07/02/gnu9ce.png)
 
 
+![](https://picdl.sunbangyan.cn/2023/07/02/god01t.png)
 
 #### 2.模板（Paintkit）
 
