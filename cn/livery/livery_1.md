@@ -64,7 +64,7 @@
 
 我们双击任一个obj格式的文件，比如A330_fuselage_A.obj。
 
-![image-20230702101744385](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702101744385.png)
+![](https://picdm.sunbangyan.cn/2023/07/02/knbsel.png)
 
 在红圈处，你可以看到这里指定了贴图的路径，包括颜色贴图，法线贴图，光泽贴图。贴图是和obj在同个文件夹，名字是A330_fuselage_a_ ALB.png等。
 
