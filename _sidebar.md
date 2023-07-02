@@ -8,7 +8,7 @@
       - [素材获取](cn/livery/livery3.md)
       - [线条校准](cn/livery/livery4.md)
     - 高级制作
-      - [Blender]()
+      - Blender
         - [模型导入]()
         - [UV获取]()
         
