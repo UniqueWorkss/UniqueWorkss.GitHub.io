@@ -46,7 +46,7 @@
 
 你可以使用bing搜索关键词 `机模全称 + paintkit  `  来获取，比如 `tls paintkit`。你也可以加上机型关键词来精确得到搜索结果。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624225211715.png" alt="image-20230624225211715" style="zoom:50%;" />
+![](https://picss.sunbangyan.cn/2023/07/02/kn539q.png)
 
 ![](https://picst.sunbangyan.cn/2023/07/02/gt4pwi.png)
 
