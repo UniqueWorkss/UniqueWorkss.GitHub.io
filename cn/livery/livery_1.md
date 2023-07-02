@@ -18,7 +18,7 @@
 
 现在，我们将正方体换为飞机模型，并在机身上添加要切割的线，就能得到与正方形展开类似的，飞机模型的平面贴图。
 
-![image-20230702100554902](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702100554902.png)
+![](https://picss.sunbangyan.cn/2023/07/02/gn4jmz.png)
 
 ![image-20230624174547313](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624174547313.png)
 
