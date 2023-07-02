@@ -20,7 +20,7 @@
 
 ![](https://picss.sunbangyan.cn/2023/07/02/gn4jmz.png)
 
-![image-20230624174547313](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624174547313.png)
+![](https://picst.sunbangyan.cn/2023/07/02/gnu9ce.png)
 
 
 
