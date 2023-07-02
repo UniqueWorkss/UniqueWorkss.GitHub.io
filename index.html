@@ -23,12 +23,74 @@
 
   <style type="text/css">
   </style>
+    <style>
+      body {
+        background-image: url("https://picst.sunbangyan.cn/2023/07/02/rd35kc.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        min-height: 100vh;
+        text-align: left;
+      }
+      
+      .content {
+        margin-left: 8%; /* 文字和按钮距离左边界8% */
+        margin-top: -5%;
+        padding: 20px;
+      }
+      
+      h1 {
+        margin-bottom: 20px;
+        font-size: 50px; /* X-Plane 11&12 字体大小 */
+        color: #1c96dc; /* X-Plane 11&12 字体颜色 */
+        margin-left: 0; /* 文字与左边界对齐 */
+      }
+      
+      .guide {
+        font-size: 60px; /* 开发指南 字体大小 */
+        color: #ffffff; /* 开发指南 字体颜色 */
+        margin-left: 0; /* 开发指南与左边界对齐 */
+      }
+      
+      .button-container {
+        display: flex;
+        margin-left: 0; /* 按钮与左边界对齐 */
+      }
+      
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        border: 2px solid #ffffff; /* 描边颜色 */
+        border-radius: 43px; /* 圆角大小 */
+        background-color: transparent; /* 去除填充颜色 */
+        color: #ffffff; /* 文字颜色 */
+        text-decoration: none;
+        margin-right: 40px;
+      }
+      
+      .button:first-child {
+        background-color: #ffffff; /* 第一个按钮填充颜色白色 */
+        color: #213c57;
+      }
+    </style>
 </head>
 <body>
   <nav>
   </nav>
   <div id="app">
     正在努力加载中...（大概率加载不出来
+  </div>
+  <div class="content">
+    <h1>X-Plane 11&amp;12<br><span class="guide">开发指南</span></h1>
+    <div class="button-container">
+      <a href="#/README.md" class="button">开始</a>
+      <a href="#" class="button">参与贡献</a>
+    </div>
   </div>
   <script>
     window.$docsify = {
