@@ -1,7 +1,7 @@
 .markdown-section img {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 150%;
     height: auto;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s ease;  
