@@ -10,7 +10,7 @@
 
 我们在小学都学习过，如果将一个正方体沿着几条切割线展开，那么你就能将一个三维的立方体，展开成二维的平面。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624172131609.png" alt="image-20230624172131609" style="zoom:50%;" />
+![](https://picss.sunbangyan.cn/2023/07/02/gmycrn.png)
 
 ![image-20230624172138080](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624172138080.png)
 
