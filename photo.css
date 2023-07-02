@@ -4,8 +4,9 @@
     max-width: 100%;
     height: auto;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
-    transition: transform 0.3s ease;   
+    transition: transform 0.3s ease;  
 }
+
 .markdown-section img:hover {
     transform: translateY(-5px);
   }
