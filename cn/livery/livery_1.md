@@ -34,7 +34,7 @@
 
 ![](https://picss.sunbangyan.cn/2023/07/02/gpd5h3.png)
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624192245813.png" alt="image-20230624192245813" style="zoom:50%;" />
+![](https://picdl.sunbangyan.cn/2023/07/02/gr8ib4.png)
 
 <img src="E:\X-Plane 11\Output\a321_StdDef - 2022-09-11 23.29.12.png" alt="a321_StdDef - 2022-09-11 23.29.12" style="zoom:80%;" />
 
