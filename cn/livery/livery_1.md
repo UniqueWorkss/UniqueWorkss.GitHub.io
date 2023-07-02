@@ -89,7 +89,7 @@
 
 对于这架A330中，你还可以看到有cabin文件夹，这是存放驾驶舱，客舱模型及贴图的地方。如果你制作了自己的客舱贴图，你可以在你制作的涂装文件夹中创建同样的cabin文件夹，并放入贴图。
 
-![image-20230702093633839](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702093633839.png)
+![](https://picdm.sunbangyan.cn/2023/07/02/gvdja0.png)
 
 ![image-20230702093708557](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702093708557.png)
 
