@@ -505,7 +505,7 @@ section.cover.show {
 }
 section.cover.has-mask .mask {
   background-color: #fff;
-  opacity: 0;
+  opacity: 0.3;
   position: absolute;
   top: 0;
   height: 100%;
