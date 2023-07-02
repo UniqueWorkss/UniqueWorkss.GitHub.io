@@ -12,13 +12,13 @@
 
 ![](https://picss.sunbangyan.cn/2023/07/02/gmycrn.png)
 
-![image-20230624172138080](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624172138080.png)
+![](https://picss.sunbangyan.cn/2023/07/02/gn4jmz.png)
 
 切割展开的这个过程，我们称之为UV展开。在这个过程中，三维正方体上每个顶点通过UV映射，将UV坐标分配给了展开平面上的每个顶点。与常见的XY坐标系类似，U表示水平轴，V表示垂直轴，取值为0-1。U=0表示纹理的最左边，U=1表示纹理最右边。V=0表示纹理的最底部，V=1表示纹理最顶部。
 
 现在，我们将正方体换为飞机模型，并在机身上添加要切割的线，就能得到与正方形展开类似的，飞机模型的平面贴图。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624174540212.png" alt="image-20230624174540212" style="zoom: 67%;" />
+![image-20230702100554902](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230702100554902.png)
 
 ![image-20230624174547313](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624174547313.png)
 
