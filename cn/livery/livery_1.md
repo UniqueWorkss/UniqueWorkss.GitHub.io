@@ -32,7 +32,7 @@
 
 在这些模板上再次作画，放入机模livery文件夹中，就可以得到一份可在游戏中加载的涂装了。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624192130941.png" alt="image-20230624192130941" style="zoom:62%;" />
+![](https://picdl.sunbangyan.cn/2023/07/02/gowv4o.png)
 
 <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230624192245813.png" alt="image-20230624192245813" style="zoom:50%;" />
 
