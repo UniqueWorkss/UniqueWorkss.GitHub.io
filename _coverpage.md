@@ -1,6 +1,10 @@
-<font size="5">XPlane全套开发指南</font>
 
-[github]()
-[get started](/README.md)
 
-![](_media/N844X-2023-01-28125234.png)
+<div class = 'covertext'><span class="Xplane">X-Plane 11&amp;12</span><br><span class="guide">开发指南</span></div>
+
+<span class='summary'>为X-Plane开发者提供最详细的开发指南</span>
+
+[开始](README.md)
+[参与贡献]()
+
+![](photo/background.png)
