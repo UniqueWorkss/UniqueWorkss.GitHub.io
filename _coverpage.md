@@ -4,7 +4,7 @@
 
 <span class='summary'>为X-Plane开发者提供最详细的开发指南</span>
 
-[开始](README.md)
-[参与贡献]()
+[开始](/README.md)
+[参与贡献](#)
 
 ![](/_media/background.png)
