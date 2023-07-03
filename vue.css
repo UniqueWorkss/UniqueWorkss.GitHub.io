@@ -600,11 +600,12 @@ section.cover .cover-main > p:first-child a:first-child {
 
 section.cover .cover-main > p:last-child a {
   border-color: var(--theme-color, #ffffff);
+  background-color: #fff;
   border-radius: 2rem;
   border-style: solid;
   border-width: 2px;
   box-sizing: border-box;
-  color: var(--theme-color, #ffffff);
+  color: var(--theme-color, #0c0c0c);
   display: inline-block;
   font-size: 1.05rem;
   letter-spacing: 0.1rem;
@@ -614,10 +615,15 @@ section.cover .cover-main > p:last-child a {
   text-decoration: none;
   transition: all 0.15s ease;
 }
+
+section.cover .cover-main > p:last-child a:hover{
+  background-color: #969696;
+  border-color: #969696;
+}
 section.cover .cover-main > p:last-child a:last-child {
   margin-left: 3%;
-  background-color: var(--theme-color, #ffffff);
-  color: #373f4d;
+  background-color: transparent;
+  color: #ffffff;
 }
 section.cover .cover-main > p:last-child a:last-child:hover {
   color: inherit;
