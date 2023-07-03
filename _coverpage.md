@@ -7,4 +7,4 @@
 [开始](README.md)
 [参与贡献]()
 
-![](photo/background.png)
+![](/_media/background.png)
