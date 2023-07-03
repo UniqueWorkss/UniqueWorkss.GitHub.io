@@ -561,7 +561,7 @@ section.cover p {
 .summary{
   color: #c3c3c3;
   text-align: left;
-  padding-left: 28px;
+  padding-left: 2.1%;
 }
 
 section.cover h1 {
@@ -614,7 +614,7 @@ section.cover .cover-main > p:last-child a {
   transition: all 0.15s ease;
 }
 section.cover .cover-main > p:last-child a:last-child {
-  margin-left: 1%;
+  margin-left: 3%;
   background-color: var(--theme-color, #ffffff);
   color: #373f4d;
 }
