@@ -24,7 +24,7 @@
           - [SketchUp](cn/scenery)
           - [Blender](cn/scenery)
       - 纹理
-        - [介绍]()
+        - [介绍](cn/scenery)
         - [纹理制作](cn/scenery)
       - [线（.lin）](cn/scenery)
       - [多边形（.pol）](cn/scenery)
