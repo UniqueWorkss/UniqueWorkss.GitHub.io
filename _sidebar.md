@@ -16,7 +16,7 @@
 - 地景
   - 地景开发
     - [介绍](cn/scenery)
-    - [基础编辑](cn/scenery)
+    - [WED基础编辑](cn/scenery)
     - 自定义文件
       - 模型（.obj）
         - [介绍](cn/scenery)
