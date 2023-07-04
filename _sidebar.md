@@ -46,7 +46,7 @@
         - [添加最低扇区高度数据](cn/Navigation_data/Navigation_data_4.md)
         - [编写机场的进离场程序文件](cn/Navigation_data/Navigation_data_5.md)
         - [实例1-启德机场进近程序编写](cn/Navigation_data/Navigation_data_6.md)
-  - [用户——如何使用](cn/scenery)    
+  - [用户——如何使用](cn/scenery)
   
 - 插件
   - Xlua
