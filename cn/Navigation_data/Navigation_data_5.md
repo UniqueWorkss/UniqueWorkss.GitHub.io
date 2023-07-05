@@ -34,7 +34,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 ##### 3.1.2进场航线类型选择如下表所示：
 
-![image-20230705183222696](https://img1.imgtp.com/2023/07/05/G6SGZeYk.png)
+![image-20230705183242402](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230705183242402.png)
 
 按照不同导航方式，常用进场程序的航线类型（Route Type）分别有2种，一种是按照给定的VOR导航台方位引导飞行时，选择航线类型“2”；另一种是按照RNAV引导的航点飞行时，选择航线类型“5”。
 
