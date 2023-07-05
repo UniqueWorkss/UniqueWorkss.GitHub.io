@@ -16,11 +16,11 @@
 
 X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字段，106位，如下表所示：
 
-![](https://picdl.sunbangyan.cn/2023/06/20/x3o9t8.png)
+![image-20230705182818057](https://img1.imgtp.com/2023/07/05/uwKPzRut.png)
 
 ### 2.   航径终止码对应字段填写规则
 
-![](https://picdl.sunbangyan.cn/2023/06/20/x47iut.png)
+![](https://img1.imgtp.com/2023/07/05/XmIce2Fy.png)
 
 ### 3. 离场/进场/进近程序主要字段填写要求
 
@@ -28,13 +28,13 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 ##### 3.1.1 离场航线类型选择如下表所示：
 
-![](https://picdl.sunbangyan.cn/2023/06/20/x4u8ls.png)
+![](https://img1.imgtp.com/2023/07/05/DsCfr59k.png)
 
 按照不同导航方式，常用离场程序的航线类型（Route Type)分别有2种，一种是按照指定的导航台引导飞行时，选择航线类型“2”；另一种是按照RNAV引导的航点飞行时，选择航线类型“5”。
 
 ##### 3.1.2进场航线类型选择如下表所示：
 
-![](https://picdl.sunbangyan.cn/2023/06/20/x6ljqx.png)
+![image-20230705183116934](https://img1.imgtp.com/2023/07/05/G6SGZeYk.png)
 
 按照不同导航方式，常用进场程序的航线类型（Route Type）分别有2种，一种是按照给定的VOR导航台方位引导飞行时，选择航线类型“2”；另一种是按照RNAV引导的航点飞行时，选择航线类型“5”。
 
