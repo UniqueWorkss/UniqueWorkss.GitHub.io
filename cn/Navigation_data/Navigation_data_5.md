@@ -150,7 +150,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 #### 3.13 导航设施类型代码及子代码（RECD NAV Section，RECD NAV Subsection）
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gr8ak4.png)
+![image-20230707164838406](https://img1.imgtp.com/2023/07/07/p2fsPMMb.png)
 
  
 
