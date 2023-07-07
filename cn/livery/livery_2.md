@@ -68,6 +68,8 @@
 
 ![F-GUOC Air France Boeing 777-F28 photographed at Glasgow Prestwick (PIK / EGPK) by Graeme Williamson](https://img1.imgtp.com/2023/07/07/yFCPAbK8.jpg)
 
+![](https://img1.imgtp.com/2023/07/07/ta7LhA4o.jpg)
+
 ---
 
 
