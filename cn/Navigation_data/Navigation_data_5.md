@@ -330,7 +330,7 @@ PRDAT 字段格式：
 
 是否授权字符表：
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gts8bd.png)
+![image-20230707170204834](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707170204834.png)
 
  
 
@@ -344,7 +344,7 @@ PRDAT 字段格式：
 
 FAS、LNAV/VNAV、LNAV服务级别名称字符表：
 
-![image-20230707170150528](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707170150528.png)
+![image-20230707170150528](https://img1.imgtp.com/2023/07/07/PdRF3EIZ.png)
 
 RNP服务级别值字符：
 
