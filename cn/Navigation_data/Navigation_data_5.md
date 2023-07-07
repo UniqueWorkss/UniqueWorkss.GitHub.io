@@ -198,7 +198,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 根据航图标注的航点速度要求，选择速度限制类型。速度限制类型如下表所示：
 
-![image-20230707164915546](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707164915546.png)
+![image-20230707164915546](https://img1.imgtp.com/2023/07/07/RAEGSjW5.png)
 
 #### 3.23速度极限值（Speed Limit） 
 
@@ -234,7 +234,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 #### 3.28 圆弧中心点或TAA（MSA）的中心点类型代码及子代码（Section Code ，Subsection Code）
 
-![](https://picdl.sunbangyan.cn/2023/06/21/grun7v.png)
+![image-20230707164937780](https://img1.imgtp.com/2023/07/07/0apCUDJ4.png)
 
 注：MSA选择机场中心时，中心点类型代码及子代码为P，A。
 
