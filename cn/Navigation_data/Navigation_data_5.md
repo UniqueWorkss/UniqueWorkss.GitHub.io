@@ -134,7 +134,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 说明：仅适用于RNAV程序设计中使用航径终止码，如下表所示：
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gr49bx.png)
+![image-20230707164819241](https://img1.imgtp.com/2023/07/07/A4QldfOx.png)
 
 #### 3.10 转航向有效（Turn Direction Valid）
 
