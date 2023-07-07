@@ -40,7 +40,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 ##### 3.1.3进近航线类型选择如下表所示：
 
-![](https://picdl.sunbangyan.cn/2023/06/21/vug3ne.png)
+![image-20230707164348488](https://img1.imgtp.com/2023/07/07/L9VBWyAk.png)
 
 
 
@@ -50,7 +50,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 进近程序名称的命名规则如下：
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gods87.png)
+![](https://img1.imgtp.com/2023/07/07/aS9HDUcy.png)
 
 例如：ILS进近：I02L-Z；VOR/DME进近：D20；RNAV 进近：R02；GLS进近： J32；NDB/DME 进近：Q02；NDB-X进近： N05。
 
@@ -86,7 +86,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.6  航段末端航点类型代码及子代码（Section Code ，Subsection Code）
 
-  ![](https://picdl.sunbangyan.cn/2023/06/21/goy40p.png)
+  ![](https://img1.imgtp.com/2023/07/07/PJe5eM3T.png)
 
  
 
@@ -98,7 +98,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.7 航点描述代码（Waypoint Description Code）
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gpdf5z.png)
+![image-20230707164444832](https://img1.imgtp.com/2023/07/07/p6ujLMsv.png)
 
  
 
