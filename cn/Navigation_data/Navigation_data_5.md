@@ -344,7 +344,7 @@ PRDAT 字段格式：
 
 FAS、LNAV/VNAV、LNAV服务级别名称字符表：
 
-![image-20230707170115204](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707170115204.png)
+![image-20230707170150528](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707170150528.png)
 
 RNP服务级别值字符：
 
