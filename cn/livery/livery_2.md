@@ -14,8 +14,6 @@
 
 首先，我们需要打开[CAAC官方网站](http://www.caac.gov.cn/index.html)
 
-
-
 ![img](https://img1.imgtp.com/2023/07/07/pOjTr7sv.png)
 
 并点击“信息公开”
