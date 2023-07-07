@@ -124,11 +124,11 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
  
 
-![image-20230707164712513](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707164712513.png)
+![image-20230707164712513](https://img1.imgtp.com/2023/07/07/l4R9HsT1.png)
 
  
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gqosa3.png)
+![image-20230707164802084](https://img1.imgtp.com/2023/07/07/WPBUmwlV.png)
 
 
 
