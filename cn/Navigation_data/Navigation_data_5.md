@@ -292,7 +292,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 跑道数据的格式
 
-![image-20230707165546750](https://img1.imgtp.com/2023/07/07/wh9uroMj.png)
+![image-20230707165611675](https://img1.imgtp.com/2023/07/07/wh9uroMj.png)
 
 注1：跑道识别码的字符数5位，不足5位时必须添加空格。ILS/MLS/GLS标识符的字符数4位，不足4位时必须添加空格。
 
@@ -300,7 +300,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 注3：进近导航设备类别/等级表：
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gt7f31.png)
+![image-20230707165617937](https://img1.imgtp.com/2023/07/07/ysueXfAw.png)
 
  
 
