@@ -348,7 +348,7 @@ FAS、LNAV/VNAV、LNAV服务级别名称字符表：
 
 RNP服务级别值字符：
 
-![image-20230707170004917](https://img1.imgtp.com/2023/07/07/spqot64w.png)
+![image-20230707170038837](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707170038837.png)
 
 RNP精度值含义：031表示RNP 0.3，03×10^(-1)=0.3，152表示RNP 0.15，15* 10^(-2)=0.15，112表示RNP 0.11，11×10^(-2)=0.11。
 
