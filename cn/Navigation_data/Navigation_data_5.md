@@ -254,7 +254,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 #### 3.30 GNSS/FMS授权指示（GNSS/FMS Indication）
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gsd87q.png)
+![image-20230707164956147](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707164956147.png)
 
 注：该字段仅用于进近程序。
 
