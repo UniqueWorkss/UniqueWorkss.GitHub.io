@@ -284,7 +284,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 #### 进近航线类型对应GNSS/FMS指示/限定符1/限定符2的常用组合示例：
 
-![image-20230707165518983](https://img1.imgtp.com/2023/07/07/jxexQJkp.png)
+![image-20230707165534383](https://img1.imgtp.com/2023/07/07/jxexQJkp.png)
 
 
 
@@ -292,7 +292,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 跑道数据的格式
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gt05l1.png)
+![image-20230707165546750](https://img1.imgtp.com/2023/07/07/wh9uroMj.png)
 
 注1：跑道识别码的字符数5位，不足5位时必须添加空格。ILS/MLS/GLS标识符的字符数4位，不足4位时必须添加空格。
 
