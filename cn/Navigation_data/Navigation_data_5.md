@@ -112,11 +112,11 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.9 航径终止码（Path and Termination）
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gpik9x.png)
+![image-20230707164520206](https://img1.imgtp.com/2023/07/07/aSTpt4hD.png)
 
  
 
-![](https://picdl.sunbangyan.cn/2023/06/21/gpxsv3.png)
+![image-20230707164529279](https://img1.imgtp.com/2023/07/07/DAATRJGz.png)
 
  
 
