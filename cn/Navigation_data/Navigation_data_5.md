@@ -326,7 +326,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 PRDAT 字段格式：
 
-![image-20230707170216786](https://img1.imgtp.com/2023/07/07/BhnFTYYR.png)
+![image-20230707170249064](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230707170249064.png)
 
 是否授权字符表：
 
