@@ -29,3 +29,11 @@
 ![image-20230709114641359](https://img1.imgtp.com/2023/07/09/Z3H0g73N.png)
 
 ![image-20230709114804626](https://img1.imgtp.com/2023/07/09/s6rfllEl.png)
+
+接下来选择画笔进行涂抹，确保笔刷颜色是黑色。
+
+![image-20230709115011981](https://img1.imgtp.com/2023/07/09/hk7qGYqE.png)
+
+![image-20230709115216431](https://img1.imgtp.com/2023/07/09/Ti9d86cb.png)
+
+![image-20230709115416371](https://img1.imgtp.com/2023/07/09/ooxz0diE.png)
