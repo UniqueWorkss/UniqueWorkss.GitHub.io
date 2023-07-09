@@ -114,10 +114,20 @@
 
 ### 常用字体
 
-### 航司logo及字体
+- 由@Skybird大佬制作的飞机注册号字体，可以说基本每一份涂装都要用到。
 
+https://bbs.sinofsx.com/forum.php?mod=viewthread&tid=59650
 
+- 波音和空客家族字体（自行搜索）
 
+Airbus Special与Boeing-Style
 
+- 更多字体分享@耶稣泡观音
+
+https://bbs.sinofsx.com/forum.php?mod=viewthread&tid=180138
+
+### 航司logo
+
+航司以及LOGO字体我个人建议用AI进行矢量绘制，这样就不用在意放大缩小所造成的清晰度不足的问题，大多数航司的LOGO以及字体在维基百科和谷歌都可以找到Svg矢量文件，如没有的情况下务必导入航司LOGO图进行重新绘制，还是那句话，准备工作做足，后期更加得心应手。
 
 ?> 请尊重原作者版权!
