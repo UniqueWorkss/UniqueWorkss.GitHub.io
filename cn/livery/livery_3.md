@@ -34,6 +34,10 @@
 
 ![image-20230709115011981](https://img1.imgtp.com/2023/07/09/hk7qGYqE.png)
 
-![image-20230709115216431](https://img1.imgtp.com/2023/07/09/Ti9d86cb.png)
+![image-20230709115929910](https://img1.imgtp.com/2023/07/09/dVcVWiCq.png)
 
 ![image-20230709115416371](https://img1.imgtp.com/2023/07/09/ooxz0diE.png)
+
+如此反复，~~让肌肤重现光泽~~， 你就可以得到一个像样的paintkit了。
+
+![image-20230709115843759](https://img1.imgtp.com/2023/07/09/W6dKDbSK.png)
