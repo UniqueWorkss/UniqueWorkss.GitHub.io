@@ -6,7 +6,7 @@
     - 基础制作
       - [素材获取](cn/livery/livery_2.md)
       - [制作模板](cn/livery/livery_3.md)
-      - [实例1-PMDG737](cn/livery/livery_4.md)
+      - [实例1-ZIBO737](cn/livery/livery_4.md)
       - [实例2-](cn/livery/livery_5.md)
     - 高级制作
       - Blender
