@@ -176,7 +176,7 @@ Plane Maker视角的操控方式是：`WASD`控制视角以机模为轴心上下
 
 `Shift   +`或者`Shift   -`来控制缩放
 
-![image-20230710122924934](https://img1.imgtp.com/2023/07/10/dM9iO3rn.png)
+![](https://img1.imgtp.com/2023/07/10/dM9iO3rn.png)
 
 这样，如果经过对比发现某处位置、比例不合适，我们可以及时的进行调整，调整后导出贴图继续进行复制替换操作，并点击
 
