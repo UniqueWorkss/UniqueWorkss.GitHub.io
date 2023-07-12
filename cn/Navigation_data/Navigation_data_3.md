@@ -22,7 +22,7 @@
 
 ![](https://picdl.sunbangyan.cn/2023/06/20/igka6a.png)
 
-### 4.添加ILS（LOC/GS/DME）导航设备
+### 4.添加ILS（LOC/GS/DME）/IGS（LOC/GS/DME）导航设备
 
 按照ILS（LOC/GS/DME）导航设备各字段的定义填写数据
 
@@ -35,6 +35,10 @@
 > 注2：GS下滑角航向角字段中，`300`表示下滑角`3°`，`201.849°`表示跑道真实航向角。
 
 > 注3：LOC设备名称根据实际设备，可选择使用`ILS-cat-I`, `ILS-cat-II`, `ILS-cat-III`。
+
+按照IGS（LOC/GS/DME）导航设备各字段的定义填写数据
+
+![image-20230712134515908](https://img1.imgtp.com/2023/07/12/tKjLUgMz.png)
 
 ### 5.添加GLS导航设备
 
