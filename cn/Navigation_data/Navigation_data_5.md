@@ -284,9 +284,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 #### 进近航线类型对应GNSS/FMS指示/限定符1/限定符2的常用组合示例：
 
-![](https://img1.imgtp.com/2023/07/12/3GQFGa2Y.png)
-
-
+![image-20230712135240986](https://img1.imgtp.com/2023/07/12/3GQFGa2Y.png)
 
 ### 4.   添加跑道数据
 
