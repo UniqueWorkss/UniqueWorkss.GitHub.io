@@ -234,7 +234,7 @@ ZB-中国华北。ZG-中国华南，ZH-中国华中，ZL-中国西北，ZP-中�
 
 #### 3.28 圆弧中心点或TAA（MSA）的中心点类型代码及子代码（Section Code ，Subsection Code）
 
-![image-20230707164937780](https://img1.imgtp.com/2023/07/07/0apCUDJ4.png)
+![img](file:///C:\Users\ASUS\Documents\Tencent Files\2490605266\nt_qq\nt_data\Pic\2023-07\Ori\756c18af7d2cd8ef6e92468a5a686221.png)
 
 注：MSA选择机场中心时，中心点类型代码及子代码为P，A。
 
