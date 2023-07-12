@@ -55,7 +55,8 @@
 ![](https://picdl.sunbangyan.cn/2023/06/20/iiieni.png)
 
 > 注1：目前支持的进近类型包括：`LP`， `LPV`， `APV-II` ， `GLS`。
-> 注2：通常FPAP导航设备与SBAS/GBAS导航设备需同时配套使用。
+
+
 ### 8. 添加SBAS/GBAS导航设备
 
 按照SBAS/GBAS导航设备各字段的定义填写数据
@@ -63,7 +64,7 @@
 ![](https://picdl.sunbangyan.cn/2023/06/20/ik3mmi.png)
 
 > 注1：SBAS服务的提供商可以是：WAAS、EGNOS和MSAS。如果没有指定供应商，或者这属于GLS进近，可以使用“GP”作为默认值。
-
+> 注2：通常FPAP导航设备与SBAS/GBAS导航设备需同时配套使用。
 ### 9. 将导航设备添加到earth_nav.dat文件中
 
 按照上述方法，编写出新增机场所需的全部导航设备数据，并添加到earth_nav.dat文件中即可。earth_nav.dat文件可以用EmEditor软件进行编辑，将导航设备数据复制到末尾的99结束行前面，并保存退出即可。
