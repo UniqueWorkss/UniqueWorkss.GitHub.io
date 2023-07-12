@@ -55,7 +55,7 @@
 ![](https://picdl.sunbangyan.cn/2023/06/20/iiieni.png)
 
 > 注1：目前支持的进近类型包括：`LP`， `LPV`， `APV-II` ， `GLS`。
-
+> 注2：通常FPAP导航设备与SBAS/GBAS导航设备需同时配套使用。
 ### 8. 添加SBAS/GBAS导航设备
 
 按照SBAS/GBAS导航设备各字段的定义填写数据
