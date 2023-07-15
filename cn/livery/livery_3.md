@@ -6,7 +6,7 @@
 
 （不要问我为什么是英文，某些配置文件被删了导致界面是英文...
 
-![image-20230715110201657](https://img1.imgtp.com/2023/07/15/4wAN9pQK.png)
+![](https://img1.imgtp.com/2023/07/15/4wAN9pQK.png)
 
 ![image-20230709111906712](https://img1.imgtp.com/2023/07/09/4imUI7GV.png)
 
