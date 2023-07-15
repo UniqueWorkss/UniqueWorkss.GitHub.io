@@ -116,7 +116,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
  
 
-![image-20230707164529279](https://img1.imgtp.com/2023/07/07/DAATRJGz.png)
+![img](https://img1.imgtp.com/2023/07/15/zkrGYWsI.png)
 
  
 
