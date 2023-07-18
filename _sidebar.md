@@ -1,6 +1,6 @@
 - [简介](/README.md)
   
-- 涂装
+- 涂装 LIVERY
   - 介绍
     - [涂装基本概念](cn/livery/livery_1.md)
     - 基础制作
@@ -14,7 +14,7 @@
         - [UV获取](cn/livery/livery_6.md)
       - Substance Painter
         - [模型导入](cn/livery/livery_7.md)
-- 地景
+- 地景 SCENERY
   - 地景开发
     - [介绍](cn/scenery)
     - [WED基础编辑](cn/scenery)
@@ -49,7 +49,7 @@
         - [实例1-启德机场进近程序编写](cn/Navigation_data/Navigation_data_6.md)
   - [用户——如何使用](cn/scenery)
   
-- 插件
+- 插件 PLUGIN
   - Xlua
     - 介绍
   - Flywithlua
