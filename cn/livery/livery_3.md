@@ -40,12 +40,12 @@
 
 接下来选择画笔进行涂抹，确保笔刷颜色是黑色。
 
-![image-20230709115011981](https://img1.imgtp.com/2023/07/09/hk7qGYqE.png)
+![image-20230709115011981](https://bu.dusays.com/2023/07/22/64bb8dfe82e1f.png)
 
-![image-20230709115929910](https://img1.imgtp.com/2023/07/09/dVcVWiCq.png)
+![image-20230709115929910](https://bu.dusays.com/2023/07/22/64bb9581eaa1b.png)
 
-![image-20230709115416371](https://img1.imgtp.com/2023/07/09/ooxz0diE.png)
+![image-20230709115416371](https://bu.dusays.com/2023/07/22/64bb8e09f3c91.png)
 
 如此反复，~~让肌肤重现光泽~~， 你就可以得到一个像样的paintkit了。
 
-![image-20230709115843759](https://img1.imgtp.com/2023/07/09/W6dKDbSK.png)
+![image-20230709115843759](https://bu.dusays.com/2023/07/22/64bbb7d061b71.png)
