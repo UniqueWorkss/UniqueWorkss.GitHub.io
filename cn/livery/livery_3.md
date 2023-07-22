@@ -26,7 +26,7 @@
 
 适当调大笔径，让画笔直径大于图案或文字。然后直接涂抹。
 
-![image-20230709113615894](https://bu.dusays.com/2023/07/22/64bb944cea42a.png)
+![](https://bu.dusays.com/2023/07/22/64bbd601ee742.png)
 
 ![image-20230709113946687](https://bu.dusays.com/2023/07/22/64bb8ded9512c.png)
 
@@ -36,7 +36,7 @@
 
 ![image-20230709114641359](https://bu.dusays.com/2023/07/22/64bb8df2882fc.png)
 
-![image-20230709114804626](https://bu.dusays.com/2023/07/22/64bb9465b9004.png)
+![s6rfllEl](https://bu.dusays.com/2023/07/22/64bbd4ad169f6.png)
 
 接下来选择画笔进行涂抹，确保笔刷颜色是黑色。
 
