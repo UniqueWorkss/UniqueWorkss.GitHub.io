@@ -22,13 +22,13 @@
 
 最后我们就能得到一个大概的paintkit，但是细看我们会发现，尾翼还有一些logo没有被去除。我们使用涂抹工具来去除这些logo，同时又不让被抹去的地方太突兀。
 
-![image-20230709113519540](https://bu.dusays.com/2023/07/22/64bb8dd19414e.png)
+![64bb8dd19414e](https://bu.dusays.com/2023/07/22/64bb8dd19414e.png)
 
 适当调大笔径，让画笔直径大于图案或文字。然后直接涂抹。
 
-![image-20230709113615894](https://img1.imgtp.com/2023/07/09/ivt1TaRo.png)
+![image-20230709113615894](https://bu.dusays.com/2023/07/22/64bb944cea42a.png)
 
-![image-20230709113946687](https://img1.imgtp.com/2023/07/09/PiHGLh3Y.png)
+![image-20230709113946687](https://bu.dusays.com/2023/07/22/64bb8ded9512c.png)
 
 不断重复此步骤，你就基本得到了一份机身空白的模板。
 
