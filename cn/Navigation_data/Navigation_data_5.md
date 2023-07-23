@@ -16,11 +16,11 @@
 
 X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字段，106位，如下表所示：
 
-![image-20230705182818057](https://img1.imgtp.com/2023/07/05/uwKPzRut.png)
+![](https://bu.dusays.com/2023/07/23/64bd22128721a.png)
 
 ### 2.   航径终止码对应字段填写规则
 
-![](https://img1.imgtp.com/2023/07/05/XmIce2Fy.png)
+![](https://bu.dusays.com/2023/07/23/64bd221465c9c.png)
 
 ### 3. 离场/进场/进近程序主要字段填写要求
 
@@ -28,19 +28,19 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 ##### 3.1.1 离场航线类型选择如下表所示：
 
-![](https://img1.imgtp.com/2023/07/05/DsCfr59k.png)
+![](https://bu.dusays.com/2023/07/23/64bd22158c6e5.png)
 
 按照不同导航方式，常用离场程序的航线类型（Route Type)分别有2种，一种是按照指定的导航台引导飞行时，选择航线类型“2”；另一种是按照RNAV引导的航点飞行时，选择航线类型“5”。
 
 ##### 3.1.2进场航线类型选择如下表所示：
 
-![image-20230705183242402](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230705183242402.png)
+![image-20230705183242402](https://bu.dusays.com/2023/07/23/64bd22163d379.png)
 
 按照不同导航方式，常用进场程序的航线类型（Route Type）分别有2种，一种是按照给定的VOR导航台方位引导飞行时，选择航线类型“2”；另一种是按照RNAV引导的航点飞行时，选择航线类型“5”。
 
 ##### 3.1.3进近航线类型选择如下表所示：
 
-![image-20230707164348488](https://img1.imgtp.com/2023/07/07/L9VBWyAk.png)
+![image-20230707164348488](https://bu.dusays.com/2023/07/23/64bd221b56fe3.png)
 
 
 
@@ -50,7 +50,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 进近程序名称的命名规则如下：
 
-![](https://img1.imgtp.com/2023/07/07/aS9HDUcy.png)
+![](https://bu.dusays.com/2023/07/23/64bd221fd3007.png)
 
 例如：ILS进近：I02L-Z；VOR/DME进近：D20；RNAV 进近：R02；GLS进近： J32；NDB/DME 进近：Q02；NDB-X进近： N05。
 
@@ -86,7 +86,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.6  航段末端航点类型代码及子代码（Section Code ，Subsection Code）
 
-  ![](https://img1.imgtp.com/2023/07/07/PJe5eM3T.png)
+  ![](https://bu.dusays.com/2023/07/23/64bd2222c1bd1.png)
 
  
 
@@ -98,7 +98,7 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.7 航点描述代码（Waypoint Description Code）
 
-![image-20230707164444832](https://img1.imgtp.com/2023/07/07/p6ujLMsv.png)
+![image-20230707164444832](https://bu.dusays.com/2023/07/23/64bd2225eac42.png)
 
  
 
@@ -112,31 +112,31 @@ X-Plane 12的离场/进场/进近程序使用统一的行格式，共有38个字
 
 #### 3.9 航径终止码（Path and Termination）
 
-![image-20230707164520206](https://img1.imgtp.com/2023/07/07/aSTpt4hD.png)
+![image-20230707164520206](https://bu.dusays.com/2023/07/23/64bd2229ee18d.png)
 
  
 
-![img](https://img1.imgtp.com/2023/07/15/zkrGYWsI.png)
+![img](https://bu.dusays.com/2023/07/23/64bd222a65dce.png)
 
  
 
-![img](https://img1.imgtp.com/2023/07/15/JuViX7yO.png)
+![img](https://bu.dusays.com/2023/07/23/64bd222c955ff.png)
 
  
 
-![img](https://img1.imgtp.com/2023/07/15/jbe3hEd4.png)
+![img](https://bu.dusays.com/2023/07/23/64bd222e76ed2.png)
 
  
 
-![img](https://img1.imgtp.com/2023/07/15/5eOWip7Z.jpeg)
+![img](https://bu.dusays.com/2023/07/23/64bd2230679a0.jpeg)
 
-![img](https://img1.imgtp.com/2023/07/15/630m9xEO.png)
+![img](https://bu.dusays.com/2023/07/23/64bd223603452.png)
 
 
 
 说明：仅适用于RNAV程序设计中使用航径终止码，如下表所示：
 
-![image-20230707164819241](https://img1.imgtp.com/2023/07/07/A4QldfOx.png)
+![image-20230707164819241](https://bu.dusays.com/2023/07/23/64bd223e46f5f.png)
 
 #### 3.10 转航向有效（Turn Direction Valid）
 
