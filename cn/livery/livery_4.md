@@ -16,7 +16,7 @@
 
 
 
-![飞机在跑道上  描述已自动生成](https://img1.imgtp.com/2023/07/10/KwVDUeH7.jpg) 
+![飞机在跑道上  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd21493447d.jpg) 
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-![徽标, 公司名称  描述已自动生成](https://img1.imgtp.com/2023/07/10/e7g0QHqL.jpg) 
+![徽标, 公司名称  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd216763ec5.jpg) 
 
  
 
@@ -72,11 +72,11 @@
 
  
 
-![img](https://img1.imgtp.com/2023/07/10/WGnFLEVZ.jpg)
+![img](https://bu.dusays.com/2023/07/23/64bd216eab037.jpg)
 
-![img](https://img1.imgtp.com/2023/07/10/ZkAPz8pf.jpg)
+![img](https://bu.dusays.com/2023/07/23/64bd2170a141c.jpg)
 
-![img](https://img1.imgtp.com/2023/07/10/TvasbF1l.jpg)
+![img](https://bu.dusays.com/2023/07/23/64bd217233aa3.jpg)
 
  
 
@@ -86,11 +86,11 @@
 
 首先，像这样并不需要对齐的涂装，我们就没必要使用整体机身贴图，但还是建议制作一张整体机身的贴图，方便其他涂装对齐制作。
 
-![飞机停在室内  中度可信度描述已自动生成](https://img1.imgtp.com/2023/07/10/9V9hguhg.jpg)
+![飞机停在室内  中度可信度描述已自动生成](https://bu.dusays.com/2023/07/23/64bd2174e279b.jpg)
 
 我们回到参考图，来确定一下文字位置和比例
 
-![img](https://img1.imgtp.com/2023/07/10/WkyMoYsn.jpg)
+![img](https://bu.dusays.com/2023/07/23/64bd21766ca9a.jpg)
 
 这里，就需要用到参考线功能，Photoshop中按快捷键`Ctrl+R`调出参考线标尺，直接拉出来即可。
 
@@ -102,17 +102,17 @@
 
  
 
-![图示  描述已自动生成](https://img1.imgtp.com/2023/07/10/04WpYHPa.jpg)
+![图示  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd2178993a5.jpg)
 
  
 
-![图片包含 室内, 厨房, 冰箱, 大  描述已自动生成](https://img1.imgtp.com/2023/07/10/2rjb3oli.jpg)
+![图片包含 室内, 厨房, 冰箱, 大  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd217b6597b.jpg)
 
  
 
  
 
-![img](https://img1.imgtp.com/2023/07/10/ycToggm9.jpg)
+![img](https://bu.dusays.com/2023/07/23/64bd217e1e1f2.jpg)
 
  
 
@@ -122,11 +122,11 @@
 
 一般来讲DDS贴图优势要更大一些，所以这一步还是建议各位尽量使用dds贴图
 
-导出时我们选择：![文本  描述已自动生成](https://img1.imgtp.com/2023/07/10/ijQJWK2p.png)
+导出时我们选择：![文本  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd21837e3b9.png)
 
 并参考以下格式：
 
-![图形用户界面  描述已自动生成](https://img1.imgtp.com/2023/07/10/894JBh8W.jpg)
+![图形用户界面  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd21891fc77.jpg)
 
  
 
@@ -144,7 +144,7 @@
 
  
 
-![图形用户界面, 文本  描述已自动生成](https://img1.imgtp.com/2023/07/10/DVsFcD3I.jpg)
+![图形用户界面, 文本  描述已自动生成](https://bu.dusays.com/2023/07/23/64bd219086aa8.jpg)
 
  
 
@@ -154,7 +154,7 @@
 
 替换好后，我们依次点击文件-打开-你的机模acf文件
 
-![img](https://img1.imgtp.com/2023/07/10/Q4W9dWs1.jpg)
+![img](https://bu.dusays.com/2023/07/23/64bd219c83225.jpg)
 
 我们就可以看到我们制作好的涂装了
 
@@ -162,11 +162,11 @@ Plane Maker视角的操控方式是：`WASD`控制视角以机模为轴心上下
 
 `Shift   +`或者`Shift   -`来控制缩放
 
-![](https://img1.imgtp.com/2023/07/10/dM9iO3rn.png)
+![](https://bu.dusays.com/2023/07/23/64bd21beb833f.png)
 
 这样，如果经过对比发现某处位置、比例不合适，我们可以及时的进行调整，调整后导出贴图继续进行复制替换操作，并点击
 
-![image-20230710122826441](https://img1.imgtp.com/2023/07/10/9H9kIGUg.png)
+![image-20230710122826441](https://bu.dusays.com/2023/07/23/64bd21c081e10.png)
 
 进行贴图显示的更新
 
@@ -180,7 +180,7 @@ Plane Maker视角的操控方式是：`WASD`控制视角以机模为轴心上下
 
 最终效果图
 
-![image-20230710122814591](https://img1.imgtp.com/2023/07/10/5ctf1FEh.png)
+![image-20230710122814591](https://bu.dusays.com/2023/07/23/64bd21c366ea2.png)
 
  
 
