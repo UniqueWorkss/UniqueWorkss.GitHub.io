@@ -1,7 +1,5 @@
 **（1）运用Substance 3D Painter进行涂装对齐工作**
 
-各位在遇到像Toliss贴图这种机鼻与机身分开的贴图，还在根据UV一点一点对齐吗？在以往的涂装制作中，这种传统方式既花费了过长的时间，又会出现因为看不懂UV网格而造成我们画的线条歪歪扭扭，反反复复对不齐的情况，不过在借助Substance 3D Painter的帮助下，可以很好的帮我们解决这些问题。
-
 ![img](https://bu.dusays.com/2023/07/25/64bf37d95b926.jpg)
 
 首先，我们需要根据前面提到的软件XPObjUVImage020（参考前文）来将Xplane的Obj格式模型转换为能被SP识别的dae格式模型，我们将导出的模型继续导入Substance 3D Painter进行制作。

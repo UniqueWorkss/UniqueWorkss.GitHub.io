@@ -9,8 +9,6 @@
       - [实例1-ZIBO737(东航标涂)](cn/livery/livery_4.md)
     - 高级制作
       - [简介](cn/livery/livery_5.md)
-      - [模型导入](cn/livery/livery_6.md)
-      - [UV获取](cn/livery/livery_7.md)
       - Blender
         - [实例1-Toliss321(香港快运)](cn/livery/livery_8.md)
       - Substance Painter
