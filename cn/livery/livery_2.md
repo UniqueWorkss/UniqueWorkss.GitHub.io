@@ -14,11 +14,11 @@
 
 首先，我们需要打开[CAAC官方网站](http://www.caac.gov.cn/index.html)
 
-![img](https://img1.imgtp.com/2023/07/07/pOjTr7sv.png)
+![img](https://bu.dusays.com/2023/07/25/64bf4731405bf.png)
 
 并点击“信息公开”
 
- ![](https://img1.imgtp.com/2023/07/07/oKfMa6e2.png)
+ ![](https://bu.dusays.com/2023/07/25/64bf472cd854b.png)
 
  
 
@@ -28,15 +28,15 @@
 
 点击左边“规范性文件”
 
-![img](https://img1.imgtp.com/2023/07/07/oKfMa6e2.png)
+![img](https://bu.dusays.com/2023/07/25/64bf472cd854b.png)
 
 搜索关键词“标记”
 
-![图形用户界面, 文本, 应用程序  描述已自动生成](https://img1.imgtp.com/2023/07/07/9Fm2oPyK.png)
+![图形用户界面, 文本, 应用程序  描述已自动生成](https://bu.dusays.com/2023/07/25/64bf472b18f3b.png)
 
  
 
-![img](https://img1.imgtp.com/2023/07/07/Z3bA0P07.png)
+![img](https://bu.dusays.com/2023/07/25/64bf4729b12e0.png)
 
 我们就可以看到具体执行文件，下载即可
 
@@ -52,27 +52,27 @@
 
 - https://www.jetphotos.com/ 
 
-![image-20230707181648772](https://img1.imgtp.com/2023/07/07/Cs8FDEa8.png)
+![image-20230707181648772](https://bu.dusays.com/2023/07/25/64bf4729b12e0.png)
 
 <br>
 
 - https://www.airliners.net/ 
 
-![image-20230707181711722](https://img1.imgtp.com/2023/07/07/lVRzXS3B.png)
+![image-20230707181711722](https://bu.dusays.com/2023/07/25/64bf4727bc061.png)
 
 <br>
 
 - https://www.planespotters.net/ 
 
-![image-20230707181822053](https://img1.imgtp.com/2023/07/07/qDzke5sQ.png)
+![image-20230707181822053](https://bu.dusays.com/2023/07/25/64bf472556de0.png)
 
 <br>
 
 正侧视图案例参考：
 
-![F-GUOC Air France Boeing 777-F28 photographed at Glasgow Prestwick (PIK / EGPK) by Graeme Williamson](https://img1.imgtp.com/2023/07/07/yFCPAbK8.jpg)
+![F-GUOC Air France Boeing 777-F28 photographed at Glasgow Prestwick (PIK / EGPK) by Graeme Williamson](https://bu.dusays.com/2023/07/25/64bf4721981e4.jpg)
 
-![](https://img1.imgtp.com/2023/07/07/ta7LhA4o.jpg)
+![](https://bu.dusays.com/2023/07/25/64bf471f4b318.jpg)
 
 ---
 
@@ -82,11 +82,11 @@
 
 - http://www.airframes.org/
 
-![image-20230707182427533](https://img1.imgtp.com/2023/07/07/fhrxALcf.png)
+![image-20230707182427533](https://bu.dusays.com/2023/07/25/64bf470c0318d.png)
 
 - https://rzjets.net/aircraft/
 
- ![image-20230707182531922](https://img1.imgtp.com/2023/07/07/UU3dSuaN.png)
+ ![image-20230707182531922](https://bu.dusays.com/2023/07/25/64bf470a312c4.png)
 
 ---
 
@@ -94,7 +94,7 @@
 
 - http://www.xmyzl.com/
 
-![](https://img1.imgtp.com/2023/07/07/Lkoh5Sqz.png)
+![](https://bu.dusays.com/2023/07/25/64bf470893ded.png)
 
 <br>
 
@@ -104,7 +104,7 @@
 #### 机模文件夹内寻找
 打开机模文件夹，在objects下寻找是否有机身空白贴图。以FF350为例，我们可以看到这里有白色贴图，我们可以直接导进ps进行下一步制作。
 
-![](https://img1.imgtp.com/2023/07/08/8Qiq7TIa.png)
+![](https://bu.dusays.com/2023/07/25/64bf46ea88fc8.png)
 
 ?> 需要注意，这种情况下的paintkit是没有将铆钉线，机身窗户，污渍等分层的，为了避免制作时遮盖原本的贴图细节，你需要将自己制作的图案图层设置为正片叠底。
 

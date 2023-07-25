@@ -4,11 +4,11 @@
 
 为了完成这一制作，你需要一个白模（使用软件将机模 obj 转换成另一种格式的模型），你还需要准备一根画笔（Blender / Substance），几张图案贴纸（各类素材）。
 
-### 白模
+### 1. 白模
 
 你可以使用以下两种方式对模型进行转换：
 
-1. #### ModelConverterX
+#### 1. ModelConverterX
 
 ![image-20230725113221363](https://bu.dusays.com/2023/07/25/64bf424ebfa53.png)
 
@@ -19,7 +19,7 @@
 
 ![image-20230725113404948](https://bu.dusays.com/2023/07/25/64bf42b623537.png)
 
-2. #### XPObjUVImage020
+#### 2. XPObjUVImage020
 
 ![电脑的屏幕  描述已自动生成](https://bu.dusays.com/2023/07/25/64bf430884471.jpg)
 
