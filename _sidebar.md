@@ -6,14 +6,16 @@
     - 基础制作
       - [素材获取](cn/livery/livery_2.md)
       - [制作模板](cn/livery/livery_3.md)
-      - [实例1-ZIBO737](cn/livery/livery_4.md)
-      - [实例2-](cn/livery/livery_5.md)
+      - [实例1-ZIBO737(东航标涂)](cn/livery/livery_4.md)
     - 高级制作
+      - [简介](cn/livery/livery_5.md)
+      - [模型导入](cn/livery/livery_6.md)
+      - [UV获取](cn/livery/livery_7.md)
       - Blender
-        - [模型导入](cn/livery/livery_5.md)
-        - [UV获取](cn/livery/livery_6.md)
+        - [实例1-Toliss321(香港快运)](cn/livery/livery_8.md)
       - Substance Painter
-        - [模型导入](cn/livery/livery_7.md)
+        - [实例1-Toliss320(国航标涂)](cn/livery/livery_9.md)
+        - [实例2-Toliss320(湖南航空彩绘)](cn/livery//livery_10.md)
 - 地景 SCENERY
   - 地景开发
     - [介绍](cn/scenery)
