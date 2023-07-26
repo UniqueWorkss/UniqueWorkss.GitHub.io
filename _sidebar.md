@@ -13,7 +13,7 @@
         - [实例1-Toliss321(香港快运)](cn/livery/livery_6.md)
       - Substance Painter
         - [实例1-Toliss320(国航标涂)](cn/livery/livery_7.md)
-        - [实例2-Toliss320(湖南航空彩绘)](cn/livery//livery_8.md)
+        - [实例2-Toliss320(湖南航空彩绘)](cn/livery/livery_8.md)
 - 地景 SCENERY
   - 地景开发
     - [介绍](cn/scenery)
