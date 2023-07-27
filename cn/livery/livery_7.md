@@ -1,4 +1,10 @@
-**（1）运用Substance 3D Painter进行涂装对齐工作**
+**作者：**Alex
+
+**日期**：2023/7/27
+
+---
+
+**运用Substance 3D Painter进行涂装对齐工作**
 
 ![img](https://bu.dusays.com/2023/07/25/64bf37d95b926.jpg)
 
