@@ -7,4 +7,4 @@
 [开始](/README.md)
 [参与贡献](#)
 
-![](/_media/background.png)
+![](https://bu.dusays.com/2023/07/27/64c1d4d1630e6.png)
