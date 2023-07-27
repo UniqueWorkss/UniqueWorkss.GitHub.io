@@ -40,7 +40,7 @@
 
  
 
-我们将我们准备好的贴图，Toliss为例，PSD文件即可，直接拖入**Substance 3D Painter**左侧贴图窗口，参考如图设置。
+我们将我们准备好的贴图，Toliss为例，PSD文件即可，直接拖入Substance 3D Painter左侧贴图窗口，参考如图设置。
 
 ![img](https://bu.dusays.com/2023/07/25/64bf37dfb2f53.jpg)
 
