@@ -2,7 +2,7 @@
 
 ![img](https://bu.dusays.com/2023/07/25/64bf37d95b926.jpg)
 
-首先，我们需要根据前面提到的软件XPObjUVImage020（参考前文）来将Xplane的Obj格式模型转换为能被SP识别的dae格式模型，我们将导出的模型继续导入Substance 3D Painter进行制作。
+首先，我们需要根据前面提到的软件**XPObjUVImage020**（参考前文）来将Xplane的Obj格式模型转换为能被SP识别的dae格式模型，我们将导出的模型继续导入**Substance 3D Painter**进行制作。
 
 我们依次点击文件-新建-选择…找到我们导出来的dae文件并确认
 
@@ -24,7 +24,7 @@
 
  
 
-由于一会我们要直接在Substance 3D Painter进行绘制，所以我们要先把Paintkit中不需要的图层进行关闭，仅留下绘制图层，以方便我们直接吸取颜色进行绘制。
+由于一会我们要直接在**Substance 3D Painter**进行绘制，所以我们要先把Paintkit中不需要的图层进行关闭，仅留下绘制图层，以方便我们直接吸取颜色进行绘制。
 
 像这样子，保证绘制的颜色不受其他图层（例如DIRT，SHADOWS等贴图的影响）
 
@@ -32,7 +32,7 @@
 
  
 
-接下来我们新建一个填充图层，在Substance 3D Painter右侧图层菜单栏中点击这个图标
+接下来我们新建一个填充图层，在**Substance 3D Painter**右侧图层菜单栏中点击这个图标
 
 这里的图层概念跟PS是一致的，不过多讲解。
 
@@ -40,7 +40,7 @@
 
  
 
-我们将我们准备好的贴图，Toliss为例，PSD文件即可，直接拖入Substance 3D Painter左侧贴图窗口，参考如图设置。
+我们将我们准备好的贴图，Toliss为例，PSD文件即可，直接拖入**Substance 3D Painter**左侧贴图窗口，参考如图设置。
 
 ![img](https://bu.dusays.com/2023/07/25/64bf37dfb2f53.jpg)
 
