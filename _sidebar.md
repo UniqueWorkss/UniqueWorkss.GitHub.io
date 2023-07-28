@@ -64,3 +64,4 @@
     - [开发介绍](cn/sdk/1.md)
     - [数据读取](cn/sdk/2.md)
     - [动作执行与写入](cn/sdk/3.md)
+- [用户协议](/cn/terms_of_service.md)

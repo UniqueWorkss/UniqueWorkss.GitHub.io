@@ -40,14 +40,3 @@
 
 在实际操作中，方法并不是千篇一律，根据需要自己选择合适的方法就好。
 
-<div class="Copyright">
-    <span class="Yuanchuang">原创</span>
-    <span class="title"> 实例2-Toliss320（国航）</span>
-    <br></br>
-    <span class="shared_link">https://uniqueworkss.github.io/#/cn/livery/livery_</span>
-    <br></br>
-    <span class="text">本文章采用自定义协议，如若转载，请严格遵守协议要求</span>
-    <div class="image-container">
-        <img src="_media/cc.png" alt="Your Image">
-    </div>
-</div>

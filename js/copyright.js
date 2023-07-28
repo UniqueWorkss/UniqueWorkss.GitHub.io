@@ -31,7 +31,7 @@ function addCopyrightSection(hook, vm) {
           <br>
           <p class="shared_link">${pageURL}</span>
           <br>
-          <span class="text">本文章采用自定义协议，如若转载，请严格遵守协议要求</span>
+          <span class="text">本文章采用<a href= "#/cn/terms_of_service">自定义协议</a>，如若转载，请严格遵守协议要求</span>
           <div class="image-container">
           <img src="_media/cc.png" alt="Your Image">
       </div>

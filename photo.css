@@ -49,6 +49,11 @@
     padding-left: 0%;
     font-weight: lighter;
     color: rgb(32, 32, 32);
+    font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.text a{
+    text-decoration: none;
 }
 
 .image-container {
