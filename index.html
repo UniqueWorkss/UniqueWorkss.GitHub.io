@@ -40,6 +40,17 @@
       loadNavbar: false,
       changelog:'/log.md',
 
+      plugins: [
+      function (hook, vm) {
+        // Initialize the custom copyright plugin
+        hook.doneEach(function () {
+          addCopyrightSection(hook, vm);
+        });
+      },
+      // Add other plugins here as needed
+      // ...
+    ],
+    
       alias: {
       '/.*/_sidebar.md': '/_sidebar.md',},
       sidebarDisplayLevel:1,
@@ -108,7 +119,8 @@
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 <script src="/js/log.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+<script src="/js/copyright.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>-->
 <script src="//unpkg.com/docsify-count/dist/countable.min.js"></script>
 <script src="https://unpkg.com/docsify-copy-code@2"></script>
 <!--<script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>-->

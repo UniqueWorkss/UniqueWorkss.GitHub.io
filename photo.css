@@ -11,3 +11,58 @@
 .markdown-section img:hover {
     transform: translateY(-5px);
   }
+
+.Yuanchuang{
+    background-color: #42b983;
+    color: white;
+    padding: 3px 4px;
+    border-radius: 6px;   
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.markdown-section .Copyright {
+    background-color: rgb(251, 251, 251);
+    align-items: center;
+    margin-top: 7%;
+    padding-top: 2%;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.title{
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.markdown-section .Copyright .shared_link{
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 2%;    
+    font-weight: bold;
+    color: rgb(169, 169, 169);
+}
+
+.text{
+    padding-left: 0%;
+    font-weight: lighter;
+    color: rgb(32, 32, 32);
+}
+
+.image-container {
+    position: absolute;
+    top: 50%;
+    right: -170px; /* Adjust the value to control the distance from the right side */
+    transform: translateY(-50%);
+    box-shadow: none;
+}
+
+.image-container img {
+    max-width: 80%;
+    height: auto;
+    transition: filter 0.3s ease;
+    filter: blur(7px);
+    opacity: 0.2;
+}
