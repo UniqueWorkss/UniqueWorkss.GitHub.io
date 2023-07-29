@@ -116,7 +116,8 @@ X-Plane支持PNG与DDS格式，最常用的是PNG格式。
 
 - DDS格式支持各类压缩算法，可以提供更高的性能和更快的加载速度。DDS文件可以可以使用不同压缩格式，比如DXT1、DXT3和DXT5以及不同程度MIP贴图级别，以实现更好的性能和视觉效果。
 
-?> 要想在Photoshop中打开dds格式文件，你需要额外下载插件 [Nvidia Texture Tools](https://developer.nvidia.cn/zh-cn/nvidia-texture-tools-exporter)
+> [!note]
+> 要想在Photoshop中打开dds格式文件，你需要额外下载插件 [Nvidia Texture Tools](https://developer.nvidia.cn/zh-cn/nvidia-texture-tools-exporter)
 
 你可以根据个人需要选择不同格式来制作。
 
