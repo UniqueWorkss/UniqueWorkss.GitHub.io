@@ -2,18 +2,18 @@
   
 - 涂装 LIVERY
   - 介绍
-    - [涂装基本概念](cn/livery/livery_1.md)
+    - [涂装基本概念](cn/livery/1.md)
     - 基础制作
-      - [素材获取](cn/livery/livery_2.md)
-      - [制作模板](cn/livery/livery_3.md)
-      - [实例1-ZIBO737(东航标涂)](cn/livery/livery_4.md)
+      - [素材获取](cn/livery/2.md)
+      - [制作模板](cn/livery/3.md)
+      - [实例1-ZIBO737(东航标涂)](cn/livery/4.md)
     - 高级制作
-      - [简介](cn/livery/livery_5.md)
+      - [简介](cn/livery/5.md)
       - Blender
-        - [实例1-Toliss321(香港快运)](cn/livery/livery_6.md)
+        - [实例1-Toliss321(香港快运)](cn/livery/6.md)
       - Substance Painter
-        - [实例1-Toliss320(国航标涂)](cn/livery/livery_7.md)
-        - [实例2-Toliss320(湖南航空彩绘)](cn/livery/livery_8.md)
+        - [实例1-Toliss320(国航标涂)](cn/livery/\7.md)
+        - [实例2-Toliss320(湖南航空彩绘)](cn/livery/8.md)
 - 地景 SCENERY
   - 地景开发
     - [介绍](cn/scenery)
