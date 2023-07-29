@@ -17,12 +17,27 @@
 
 ![image-20230725113221363](https://bu.dusays.com/2023/07/25/64bf424ebfa53.png)
 
-
-
 点击左上Import导入模型文件，再点击Export Object导出文件。格式选择`Wavefront OBJ（old）`，`glTF`，`COLLADA （dae）`任意一个即可。
 
-
 ![image-20230725113404948](https://bu.dusays.com/2023/07/25/64bf42b623537.png)
+
+有些情况下，机身还带着动画，舱门还处于开启状态，或是襟翼，扰流板还处于开启状态，这时候你就要先固定动画再导出。
+
+以Toliss为例，导入后我们可以看到，前舱门和后舱门还开着。在菜单栏下有一个可以拖动的进度条，随着进度条的拖动，动画也跟着变。
+
+t=0s:
+
+![image-20230729114337869](https://bu.dusays.com/2023/07/29/64c48af56f8e6.png)
+
+t=2s：
+
+![image-20230729114532568](https://bu.dusays.com/2023/07/29/64c48b67c6bde.png)
+
+我们点击菜单栏中的这个图标，将会弹出动画编辑的窗口。
+
+![image-20230729114723729](https://bu.dusays.com/2023/07/29/64c48bd690883.png)
+
+![image-20230729114947850](https://bu.dusays.com/2023/07/29/64c48c66c994a.png)
 
 #### 2.2 XPObjUVImage020
 
