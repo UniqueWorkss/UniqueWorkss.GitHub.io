@@ -1,4 +1,7 @@
-- [简介](/README.md)
+- 概述
+  - [简介](/README.md)
+  - [MD语法](cn/)
+  - [用户协议](cn/terms_of_service.md)
   
 - 涂装 LIVERY
   - 介绍
@@ -51,7 +54,7 @@
   
 - 插件 PLUGIN
   - Xlua
-    - 介绍
+    - [介绍](cn/xlua)
   - Flywithlua
     - [开发介绍](cn/flywithlua)
     - [数据读取](cn/flywithlua)
