@@ -1,4 +1,4 @@
-## **你的XPlane11/12全套开发指南**
+
 
 ### 背景
 
@@ -20,153 +20,60 @@
 
 如果你也想参与到文档的维护当中，你可以发送邮件到[gcaptain3@outlook.com](mailto:gcaptain3@outlook.com)，表明你的意愿。为了节省沟通时间，请在邮件中说明以下内容。
 
-> 你的称呼，除邮箱外的联系方式（QQ）
->
-> 你主要擅长的部分（建模，材质，代码，涂装，插件，地景等）
->
-> 你的作品（如果有）
+- 你的称呼，除邮箱外的联系方式（QQ）
+- 你主要擅长的部分（建模，材质，代码，涂装，插件，地景等）
+- 你的作品（如果有）
 
-#### 2. 准备工具
+#### 2. 克隆文档
 
-##### 编辑器
+> [!warning]
+> 在此之前请务必阅读本站的[用户协议](cn/terms_of_service)要求。
 
-编写文档需要使用markdown语言，请你准备以下其中之一编辑器。
-
-- 记事本
-
-- Visual Studio Code
-
-- Typora（推荐）
-
-  
-
-> [!tip]
-> 如果你使用markdown有困难，你也可以直接联系我们来排版。
-
-##### 语法
-
-Markdown的基本语法知识请参照 >>> [Markdown语法及原理从入门到高级](https://www.zhihu.com/tardis/zm/art/99319314?source_id=1005)  。请相信，这个语法非常简单，学习起来不会有任何负担。
-
-本站支持的扩展语法
-
-###### **强调内容**
-
-适合显示重要的提示信息，语法为 `!> 内容`。
-
-```markdown
-!> 一段重要的内容，可以和其他 **Markdown** 语法混用。
+##### 2.1 Github客户端
+复制本站仓库链接
+```
+https://github.com/UniqueWorkss/UniqueWorkss.GitHub.io.git
 ```
 
-!> 一段重要的内容，可以和其他 **Markdown** 语法混用。
+打开Github客户端，点击File -> Clone repository
 
-###### **普通提示**
+![image-20230731152727701](https://bu.dusays.com/2023/07/31/64c7626c45eca.png)
 
-普通的提示信息，比如写 TODO 或者参考内容等。
+选择URL选项卡，在弹出的窗口中，粘贴链接到第一行。在Local path选择你希望问的储存在你本地的位置。点击Clone即可。
 
-```markdown
-?> _TODO_ 完善示例
-```
+![image-20230731152915134](https://bu.dusays.com/2023/07/31/64c762d6f2f4e.png)
 
-?> *TODO* 完善示例
-
-###### **忽略编译链接**
-
-有时候我们会把其他一些相对路径放到链接上，你必须告诉网站你不需要编译这个链接。 例如：
-
-```md
-[link](/demo/)
-```
-
-它将被编译为 `<a href="/#/demo/">link</a>` 并将加载 `/demo/README.md`. 可能你想跳转到 `/demo/index.html`。
+##### 2.2 Git bash
 
 
+访问Git官方网站[https://git-scm.com/downloads](https://git-scm.com/downloads)，然后下载适用于Windows的Git安装程序。网站会自动检测您的操作系统，然后提供正确的下载链接。
 
-###### 设置链接的 target 属性
+双击下载的Git安装程序（通常是一个名为"Git-版本号-64-bit.exe"或类似的文件），然后按照安装向导的指示进行操作。
 
-```md
-[link](/demo ':target=_blank')
-[link](/demo2 ':target=_self')
-```
+> [!note]
+> 您可以一路选择默认选项，但是务必勾选`Git bash here`。这将允许你从右键菜单打开Git bash。
+> 在安装过程中，您可能会被询问是否要将Git添加到系统的环境变量中。选择`Git from the command line and also from 3rd-party software`，这样您就可以在命令提示符或其他终端中直接使用Git命令。
 
-###### 禁用链接
+安装完成后，我们需要配置git。
 
-```md
-[link](/demo ':disabled')
-```
+桌面右键 - > Git Bash Here，在弹出的窗口输入以下命令
 
+配置用户名和邮箱，注意替换`你的用户名`为你实际的用户名，替换`xxx@xx.com`为你GitHub邮箱。
 
 ```
-###### [Github 任务列表]()
-
-```md
-- [ ] foo
-- bar
-- [x] baz
-- [] bam <~ not working
-  - [ ] bim
-  - [ ] lim
+git config --global user.name "你的用户名"
 ```
 
--  foo
--  bar
--  baz
--  [] bam <~ not working
-   -  bim
-   -  lim
-
-###### 图片处理
-
-###### 缩放
-
-```md
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=WIDTHxHEIGHT')
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=50x100')
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=100')
-
-<!-- 支持按百分比缩放 -->
-
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=10%')
+``` 
+git config --global user.email xxxx@xx.com
 ```
 
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=50x100')
+输入以下命令，如果能看到自己用户名及邮箱那么就配置成功。
 
-
-
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=100')
-
-
-
-![logo](https://picdl.sunbangyan.cn/2023/06/09/vfe62s.png ':size=10%')  
-
-```markdown
-<details>
-<summary>自我评价（点击展开）</summary>
-
-- Abc
-- Abc
-
-</details>
 ```
-
-<details open="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; font-size: 15px; color: rgb(52, 73, 94); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">自我评价（点击展开）</summary><ul style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;"><li style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">Abc</li><li style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">Abc</li></ul></details>
-
-Markdown 内容也可以被 html 标签包裹。
-
-```markdown
-<div style='color: red'>
-
-- listitem
-- listitem
-- listitem
-
-</div>
+git config --global --list
 ```
-
-<div style='color: red'>
-- Abc
-- Abc
-</div>
-
+接下来我们要生成密钥，
 ### 项目贡献者
 ---
 [@UniqueWorkss](https://github.com/UniqueWorkss) | [@CCA9230]() | [@SpreaderVCA321]() | [@Alex]()
