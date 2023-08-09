@@ -1,7 +1,7 @@
 .markdown-section img {
     display: block;
     margin: 0 auto;
-    width: 600px;
+    width: 1000px;
     height: auto;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease;
@@ -64,13 +64,13 @@
 .image-container {
     position: absolute;
     top: 50%;
-    right: -170px; /* Adjust the value to control the distance from the right side */
+    right: -360px; /* Adjust the value to control the distance from the right side */
     transform: translateY(-50%);
     box-shadow: none;
 }
 
 .image-container img {
-    max-width: 80%;
+    max-width: 50%;
     height: auto;
     transition: filter 0.3s ease;
     filter: blur(7px);
