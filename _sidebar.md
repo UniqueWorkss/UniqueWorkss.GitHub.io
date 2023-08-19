@@ -17,7 +17,7 @@
       - Substance Painter
         - [实例1-Toliss320(国航标涂)](cn/livery/livery_7.md)
         - [实例2-Toliss320(湖南航空彩绘)](cn/livery/livery_8.md)
-        - [实例3-LR330(Condor标涂)](cn/livery/livery_9.md)
+
 - 地景 SCENERY
   - 地景开发
     - [介绍](cn/scenery)
